@@ -5,11 +5,11 @@ Automate repetitive web tasks right from your own Chrome profile.
 
 Browsey is a Chrome extension that drives your existing browser to perform routine actions for you. Use the dedicated Social Mode for hands-off social media workflows (e.g., engagement farming on [twitter](https://x.com)), or switch to General Mode for everyday automation across the web.
 
-Here is a video of me using the web agent in social media mode, after tasking it with continuously scrolling on X and engaging with certain posts in a particular way. Don't mind the background edm music.
+Here is a video of me using the web agent in social media mode. I've tasked the web agent with continuously scrolling on X and engaging with certain posts in a particular way. Don't mind the background edm music.
 
 [![Watch the video](https://img.youtube.com/vi/gr4P9amSYck/hqdefault.jpg)](https://www.youtube.com/watch?v=gr4P9amSYck "Watch on YouTube")
 
-Keep in mind: the entire website DOM is being processed and cut down tremendously before each LLM call. The web agent takes less than a second to process and decide which action to perform, which is a non-trivial task given the sheer size of the DOM for a website like x.com.
+Keep in mind: the entire website DOM is being processed and cut down tremendously before each LLM call. The web agent takes less than a second to process and decide which action to perform, which is a non-trivial task given the sheer size of the DOM for a website like x.com. In the video the agent is responsible for continuously scrolling and only interacting (in a human fashion) with valid candidate posts, achieved via a simple prompt.
 
 
 ## Backend
