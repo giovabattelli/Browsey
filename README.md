@@ -7,7 +7,11 @@ Browsey is a Chrome extension that drives your existing browser to perform routi
 
 Here is a video of me using the web agent in social media mode. I've tasked the web agent with continuously scrolling on X and engaging with certain posts in a particular way. Don't mind the background edm music.
 
-[![Watch the video](https://img.youtube.com/vi/gr4P9amSYck/hqdefault.jpg)](https://www.youtube.com/watch?v=gr4P9amSYck "Watch on YouTube")
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=gr4P9amSYck">
+    <img src="https://img.youtube.com/vi/gr4P9amSYck/hqdefault.jpg" alt="YouTube video thumbnail" />
+  </a>
+</p>
 
 Keep in mind: the entire website DOM is being processed and cut down tremendously before each LLM call. The web agent takes less than a second to process and decide which action to perform, which is a non-trivial task given the sheer size of the DOM for a website like x.com. In the video the agent is responsible for continuously scrolling and only interacting (in a human fashion) with valid candidate posts, achieved via a simple prompt.
 
