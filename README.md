@@ -9,6 +9,9 @@ Here is a video of me using the web agent in social media mode, after tasking it
 
 [![Watch the video](https://img.youtube.com/vi/gr4P9amSYck/hqdefault.jpg)](https://www.youtube.com/watch?v=gr4P9amSYck "Watch on YouTube")
 
+Keep in mind: the entire website DOM is being processed and cut down tremendously before each LLM call. The web agent takes less than a second to process and decide which action to perform, which is a non-trivial task given the sheer size of the DOM for a website like x.com.
+
+
 ## Backend
 
 Dependencies for the backend are managed with `uv` and the `backend/pyproject.toml` file.
