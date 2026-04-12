@@ -8,7 +8,7 @@ Browsey is a Chrome extension that drives your existing browser to perform routi
 Here is a video of me using the web agent in social media mode. I've tasked the web agent with continuously scrolling on X and engaging with certain posts in a particular way. Don't mind the (shitty) background music.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=gr4P9amSYck" target="_blank" rel="noopener noreferrer">
+  <a href="https://youtube.com/shorts/6Acvm_3iD4k" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/gr4P9amSYck/hqdefault.jpg" alt="YouTube video thumbnail" />
   </a>
 </p>
