@@ -9,7 +9,7 @@ Here is a video of me using the web agent in social media mode. I've tasked the 
 
 <p align="center">
   <a href="https://youtube.com/shorts/6Acvm_3iD4k" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/gr4P9amSYck/hqdefault.jpg" alt="YouTube video thumbnail" />
+    <img src="https://img.youtube.com/vi/6Acvm_3iD4k/hqdefault.jpg" alt="YouTube video thumbnail" />
   </a>
 </p>
 
